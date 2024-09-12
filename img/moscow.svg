@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <polyline points="1476.15,347.558 1516.13,388.681 1403.04,417.238 1270.91,445.796 1221.03,479.684 1174.58,499.865 1150.21,521.949 1113.28,533.753 1068.73,556.979 1028.75,564.214 1003.24,589.725 978.868,611.81 932.414,647.982 883.676,682.632 827.704,695.578 809.808,745.078 711.189,812.854 607.621,871.111 520.807,922.895 479.684,990.671 363.17,1039.03 295.774,1081.67 363.17,1039.03 479.684,990.671 520.807,922.895 607.621,871.111 711.189,812.854 809.808,745.078 827.704,695.578 883.676,682.632 932.414,647.982 978.868,611.81 1003.24,589.725 1028.75,564.214 1068.73,556.979 1113.28,533.753 1150.21,521.949 1174.58,499.865 1221.03,479.684 1270.91,445.796 1403.04,417.238 1516.13,388.681 1476.15,347.558" fill="none" stroke="rgb(239,22,30)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="867.684,270.263 919.849,316.716 975.821,352.889 1026.46,421.427 1022.27,473.211 1041.31,521.949 1114.42,530.326 1182.96,569.545 1277.01,607.621 1221.03,658.263 1254.92,713.474 1288.81,755.739 1448.35,809.808 1548.11,819.327 1580.86,876.442 1538.59,937.745 1510.04,974.679 1511.94,1038.27 1511.94,1084.72 1518.41,1117.47 1511.94,1084.72 1511.94,1038.27 1510.04,974.679 1538.59,937.745 1580.86,876.442 1548.11,819.327 1448.35,809.808 1288.81,755.739 1254.92,713.474 1221.03,658.263 1277.01,607.621 1182.96,569.545 1114.42,530.326 1041.31,521.949 1022.27,473.211 1026.46,421.427 975.821,352.889 919.849,316.716 867.684,270.263" fill="none" stroke="rgb(153,204,0)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="1150.21,955.641 1039.03,962.114 958.687,962.875 1039.03,962.114 1150.21,955.641" fill="none" stroke="rgb(130,192,192)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="798.004,1163.92 877.203,1232.84 876.442,1283.48 792.673,1362.68 748.504,1372.2 701.67,1387.05 644.555,1400.76 701.67,1387.05 748.504,1372.2 792.673,1362.68 876.442,1283.48 877.203,1232.84 798.004,1163.92" fill="none" stroke="rgb(161,179,212)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="493.392,194.11 533.753,252.367 577.16,331.566 642.652,384.493 709.286,402.389 805.619,442.75 905.761,493.392 949.168,517.761 989.529,537.941 1037.12,564.214 1077.11,626.659 1109.09,663.594 1184.1,755.739 1209.61,803.335 1208.47,865.78 1150.21,955.641 1179.91,1028.75 1229.41,1083.58 1326.89,1114.42 1416.75,1123.94 1514.99,1113.28 1597.61,1041.31 1514.99,1113.28 1416.75,1123.94 1326.89,1114.42 1229.41,1083.58 1179.91,1028.75 1150.21,955.641 1208.47,865.78 1209.61,803.335 1184.1,755.739 1109.09,663.594 1077.11,626.659 1037.12,564.214 989.529,537.941 949.168,517.761 905.761,493.392 805.619,442.75 709.286,402.389 642.652,384.493 577.16,331.566 533.753,252.367 493.392,194.11" fill="none" stroke="rgb(45,190,44)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="30,188.779 59.6997,229.14 135.853,269.121 147.657,307.197 215.433,388.681 234.471,568.402 267.217,628.944 378.02,667.021 472.449,671.209 654.075,646.84 829.607,614.094 898.526,598.102 968.206,587.441 1047.79,568.402 1191.33,567.641 1272.06,505.957 1359.63,473.211 1425.12,467.119 1538.59,446.938 1655.87,449.984 1723.64,423.711 1721.36,367.739 1723.64,423.711 1655.87,449.984 1538.59,446.938 1425.12,467.119 1359.63,473.211 1272.06,505.957 1191.33,567.641 1047.79,568.402 968.206,587.441 898.526,598.102 829.607,614.094 654.075,646.84 472.449,671.209 378.02,667.021 267.217,628.944 234.471,568.402 215.433,388.681 147.657,307.197 135.853,269.121 59.6997,229.14 30,188.779" fill="none" stroke="rgb(0,120,190)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="378.02,667.021 459.503,646.84 520.807,633.132 576.018,617.14 641.509,608.763 715.378,631.99 768.304,636.179 829.607,614.094 898.526,598.102 968.206,587.441 997.906,584.395 968.206,587.441 898.526,598.102 829.607,614.094 768.304,636.179 715.378,631.99 641.509,608.763 576.018,617.14 520.807,633.132 459.503,646.84 378.02,667.021" fill="none" stroke="rgb(0,191,255)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="713.474,600.387 739.747,592.771 834.177,618.283 739.747,592.771 713.474,600.387" fill="none" stroke="rgb(0,191,255)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="932.414,647.982 1007.42,667.782 1057.31,673.113 1109.09,663.594 1163.92,630.848 1191.33,567.641 1174.58,499.865 1085.86,475.496 975.821,479.684 905.761,493.392 879.488,550.506 829.607,614.094 932.414,647.982" fill="none" stroke="rgb(141,91,45)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="1198.95,71.5034 1210.37,139.28 1166.2,192.968 1110.99,232.186 1121.65,323.189 1113.28,369.643 1102.62,427.9 1085.86,475.496 1086.62,505.195 1107.95,532.61 1091.95,573.733 1069.87,627.802 1007.42,667.782 996.763,709.286 912.234,754.597 863.496,830.75 823.515,867.684 791.531,897.384 738.985,947.264 682.632,1002.09 656.359,1038.27 615.998,1091.95 711.189,1140.69 790.769,1160.87 711.189,1140.69 615.998,1091.95 656.359,1038.27 682.632,1002.09 738.985,947.264 791.531,897.384 823.515,867.684 863.496,830.75 912.234,754.597 996.763,709.286 1007.42,667.782 1069.87,627.802 1091.95,573.733 1107.95,532.61 1086.62,505.195 1085.86,475.496 1102.62,427.9 1113.28,369.643 1121.65,323.189 1110.99,232.186 1166.2,192.968 1210.37,139.28 1198.95,71.5034" fill="none" stroke="rgb(237,145,33)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="342.228,172.026 354.793,210.864 343.37,301.867 338.039,333.851 448.08,370.785 560.026,427.9 657.501,489.203 762.212,502.911 818.184,536.799 886.722,551.649 994.86,536.799 1063.4,553.553 1091.95,573.733 1163.92,630.848 1215.7,662.832 1296.05,687.963 1466.63,750.408 1595.71,762.974 1701.18,719.947 1795.61,724.897 1926.59,778.966 1941.44,839.127 1948.68,882.534 1941.44,839.127 1926.59,778.966 1795.61,724.897 1701.18,719.947 1595.71,762.974 1466.63,750.408 1296.05,687.963 1215.7,662.832 1163.92,630.848 1091.95,573.733 1063.4,553.553 994.86,536.799 886.722,551.649 818.184,536.799 762.212,502.911 657.501,489.203 560.026,427.9 448.08,370.785 338.039,333.851 343.37,301.867 354.793,210.864 342.228,172.026" fill="none" stroke="rgb(128,0,128)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="604.575,799.146 670.067,762.974 599.244,695.578 654.075,646.84 734.416,596.96 1069.87,627.802 1171.53,627.802 1279.29,604.575 1419.03,584.395 1536.31,565.356 1676.05,589.725 1790.28,587.441 1970,612.952 1790.28,587.441 1676.05,589.725 1536.31,565.356 1419.03,584.395 1279.29,604.575 1171.53,627.802 1069.87,627.802 734.416,596.96 654.075,646.84 599.244,695.578 670.067,762.974 604.575,799.146" fill="none" stroke="rgb(255,215,2)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="915.28,30 977.725,84.0687 983.056,162.506 927.083,223.81 867.684,270.263 875.299,336.897 895.48,377.258 921.753,430.946 969.348,475.496 1035.98,514.714 1002.09,539.083 992.575,589.725 1034.08,640.367 1059.21,677.301 1051.97,751.551 1050.83,848.646 1004.38,889.007 986.483,925.941 958.687,965.16 990.671,1010.47 999.048,1079.39 981.914,1117.47 966.302,1184.1 952.595,1230.55 877.203,1282.34 952.595,1230.55 966.302,1184.1 981.914,1117.47 999.048,1079.39 990.671,1010.47 958.687,965.16 986.483,925.941 1004.38,889.007 1050.83,848.646 1051.97,751.551 1059.21,677.301 1034.08,640.367 992.575,589.725 1002.09,539.083 1035.98,514.714 969.348,475.496 921.753,430.946 895.48,377.258 875.299,336.897 867.684,270.263 927.083,223.81 983.056,162.506 977.725,84.0687 915.28,30" fill="none" stroke="rgb(153,153,153)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1476.15" y="347.558" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">1</text>
+  <text fill="rgb(239,22,30)" x="1476.15" y="347.558" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">1</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="295.774" y="1081.67" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">1</text>
+  <text fill="rgb(239,22,30)" x="295.774" y="1081.67" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">1</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="867.684" y="270.263" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">10</text>
+  <text fill="rgb(153,204,0)" x="867.684" y="270.263" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">10</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1518.41" y="1117.47" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">10</text>
+  <text fill="rgb(153,204,0)" x="1518.41" y="1117.47" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">10</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1150.21" y="955.641" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">11а</text>
+  <text fill="rgb(130,192,192)" x="1150.21" y="955.641" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">11а</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="958.687" y="962.875" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">11а</text>
+  <text fill="rgb(130,192,192)" x="958.687" y="962.875" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">11а</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="798.004" y="1163.92" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">12</text>
+  <text fill="rgb(161,179,212)" x="798.004" y="1163.92" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">12</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="644.555" y="1400.76" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">12</text>
+  <text fill="rgb(161,179,212)" x="644.555" y="1400.76" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">12</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="493.392" y="194.11" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">2</text>
+  <text fill="rgb(45,190,44)" x="493.392" y="194.11" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">2</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1597.61" y="1041.31" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">2</text>
+  <text fill="rgb(45,190,44)" x="1597.61" y="1041.31" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">2</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="30" y="188.779" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">3</text>
+  <text fill="rgb(0,120,190)" x="30" y="188.779" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">3</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1721.36" y="367.739" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">3</text>
+  <text fill="rgb(0,120,190)" x="1721.36" y="367.739" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">3</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="378.02" y="667.021" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4</text>
+  <text fill="rgb(0,191,255)" x="378.02" y="667.021" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="997.906" y="584.395" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4</text>
+  <text fill="rgb(0,191,255)" x="997.906" y="584.395" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="713.474" y="600.387" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4а</text>
+  <text fill="rgb(0,191,255)" x="713.474" y="600.387" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4а</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="834.177" y="618.283" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4а</text>
+  <text fill="rgb(0,191,255)" x="834.177" y="618.283" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">4а</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="932.414" y="647.982" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">5</text>
+  <text fill="rgb(141,91,45)" x="932.414" y="647.982" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">5</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1198.95" y="71.5034" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">6</text>
+  <text fill="rgb(237,145,33)" x="1198.95" y="71.5034" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">6</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="790.769" y="1160.87" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">6</text>
+  <text fill="rgb(237,145,33)" x="790.769" y="1160.87" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">6</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="342.228" y="172.026" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">7</text>
+  <text fill="rgb(128,0,128)" x="342.228" y="172.026" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">7</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1948.68" y="882.534" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">7</text>
+  <text fill="rgb(128,0,128)" x="1948.68" y="882.534" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">7</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="604.575" y="799.146" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">8</text>
+  <text fill="rgb(255,215,2)" x="604.575" y="799.146" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">8</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1970" y="612.952" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">8</text>
+  <text fill="rgb(255,215,2)" x="1970" y="612.952" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">8</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="915.28" y="30" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">9</text>
+  <text fill="rgb(153,153,153)" x="915.28" y="30" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">9</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="877.203" y="1282.34" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">9</text>
+  <text fill="rgb(153,153,153)" x="877.203" y="1282.34" dx="7" dy="15" font-size="10" font-family="Verdana" font-weight="bold">9</text>
+  <circle cx="1419.03" cy="584.395" r="2" fill="white"/>
+  <circle cx="1184.1" cy="755.739" r="2" fill="white"/>
+  <circle cx="863.496" cy="830.75" r="2" fill="white"/>
+  <circle cx="997.906" cy="584.395" r="2" fill="white"/>
+  <circle cx="1113.28" cy="369.643" r="2" fill="white"/>
+  <circle cx="1597.61" cy="1041.31" r="2" fill="white"/>
+  <circle cx="915.28" cy="30" r="2" fill="white"/>
+  <circle cx="952.595" cy="1230.55" r="2" fill="white"/>
+  <circle cx="968.206" cy="587.441" r="2" fill="white"/>
+  <circle cx="709.286" cy="402.389" r="2" fill="white"/>
+  <circle cx="1210.37" cy="139.28" r="2" fill="white"/>
+  <circle cx="576.018" cy="617.14" r="2" fill="white"/>
+  <circle cx="886.722" cy="551.649" r="2" fill="white"/>
+  <circle cx="1272.06" cy="505.957" r="2" fill="white"/>
+  <circle cx="762.212" cy="502.911" r="2" fill="white"/>
+  <circle cx="905.761" cy="493.392" r="2" fill="white"/>
+  <circle cx="682.632" cy="1002.09" r="2" fill="white"/>
+  <circle cx="977.725" cy="84.0687" r="2" fill="white"/>
+  <circle cx="1003.24" cy="589.725" r="2" fill="white"/>
+  <circle cx="798.004" cy="1163.92" r="2" fill="white"/>
+  <circle cx="1511.94" cy="1038.27" r="2" fill="white"/>
+  <circle cx="992.575" cy="589.725" r="2" fill="white"/>
+  <circle cx="1110.99" cy="232.186" r="2" fill="white"/>
+  <circle cx="1538.59" cy="937.745" r="2" fill="white"/>
+  <circle cx="748.504" cy="1372.2" r="2" fill="white"/>
+  <circle cx="877.203" cy="1282.34" r="2" fill="white"/>
+  <circle cx="1476.15" cy="347.558" r="2" fill="white"/>
+  <circle cx="644.555" cy="1400.76" r="2" fill="white"/>
+  <circle cx="975.821" cy="352.889" r="2" fill="white"/>
+  <circle cx="1121.65" cy="323.189" r="2" fill="white"/>
+  <circle cx="1039.03" cy="962.114" r="2" fill="white"/>
+  <circle cx="927.083" cy="223.81" r="2" fill="white"/>
+  <circle cx="533.753" cy="252.367" r="2" fill="white"/>
+  <circle cx="577.16" cy="331.566" r="2" fill="white"/>
+  <circle cx="1296.05" cy="687.963" r="2" fill="white"/>
+  <circle cx="1548.11" cy="819.327" r="2" fill="white"/>
+  <circle cx="135.853" cy="269.121" r="2" fill="white"/>
+  <circle cx="809.808" cy="745.078" r="2" fill="white"/>
+  <circle cx="739.747" cy="592.771" r="2" fill="white"/>
+  <circle cx="1795.61" cy="724.897" r="2" fill="white"/>
+  <circle cx="734.416" cy="596.96" r="2" fill="white"/>
+  <circle cx="805.619" cy="442.75" r="2" fill="white"/>
+  <circle cx="895.48" cy="377.258" r="2" fill="white"/>
+  <circle cx="1057.31" cy="673.113" r="2" fill="white"/>
+  <circle cx="1416.75" cy="1123.94" r="2" fill="white"/>
+  <circle cx="1022.27" cy="473.211" r="2" fill="white"/>
+  <circle cx="1254.92" cy="713.474" r="2" fill="white"/>
+  <circle cx="1941.44" cy="839.127" r="2" fill="white"/>
+  <circle cx="1518.41" cy="1117.47" r="2" fill="white"/>
+  <circle cx="1655.87" cy="449.984" r="2" fill="white"/>
+  <circle cx="738.985" cy="947.264" r="2" fill="white"/>
+  <circle cx="1179.91" cy="1028.75" r="2" fill="white"/>
+  <circle cx="958.687" cy="962.875" r="2" fill="white"/>
+  <circle cx="1150.21" cy="955.641" r="2" fill="white"/>
+  <circle cx="829.607" cy="614.094" r="2" fill="white"/>
+  <circle cx="834.177" cy="618.283" r="2" fill="white"/>
+  <circle cx="1091.95" cy="573.733" r="2" fill="white"/>
+  <circle cx="1288.81" cy="755.739" r="2" fill="white"/>
+  <circle cx="1208.47" cy="865.78" r="2" fill="white"/>
+  <circle cx="1174.58" cy="499.865" r="2" fill="white"/>
+  <circle cx="656.359" cy="1038.27" r="2" fill="white"/>
+  <circle cx="1948.68" cy="882.534" r="2" fill="white"/>
+  <circle cx="1514.99" cy="1113.28" r="2" fill="white"/>
+  <circle cx="879.488" cy="550.506" r="2" fill="white"/>
+  <circle cx="1221.03" cy="479.684" r="2" fill="white"/>
+  <circle cx="1150.21" cy="521.949" r="2" fill="white"/>
+  <circle cx="1221.03" cy="658.263" r="2" fill="white"/>
+  <circle cx="978.868" cy="611.81" r="2" fill="white"/>
+  <circle cx="234.471" cy="568.402" r="2" fill="white"/>
+  <circle cx="1063.4" cy="553.553" r="2" fill="white"/>
+  <circle cx="1595.71" cy="762.974" r="2" fill="white"/>
+  <circle cx="378.02" cy="667.021" r="2" fill="white"/>
+  <circle cx="1191.33" cy="567.641" r="2" fill="white"/>
+  <circle cx="715.378" cy="631.99" r="2" fill="white"/>
+  <circle cx="912.234" cy="754.597" r="2" fill="white"/>
+  <circle cx="1926.59" cy="778.966" r="2" fill="white"/>
+  <circle cx="877.203" cy="1232.84" r="2" fill="white"/>
+  <circle cx="670.067" cy="762.974" r="2" fill="white"/>
+  <circle cx="1068.73" cy="556.979" r="2" fill="white"/>
+  <circle cx="1580.86" cy="876.442" r="2" fill="white"/>
+  <circle cx="1171.53" cy="627.802" r="2" fill="white"/>
+  <circle cx="1026.46" cy="421.427" r="2" fill="white"/>
+  <circle cx="1510.04" cy="974.679" r="2" fill="white"/>
+  <circle cx="949.168" cy="517.761" r="2" fill="white"/>
+  <circle cx="1198.95" cy="71.5034" r="2" fill="white"/>
+  <circle cx="713.474" cy="600.387" r="2" fill="white"/>
+  <circle cx="969.348" cy="475.496" r="2" fill="white"/>
+  <circle cx="599.244" cy="695.578" r="2" fill="white"/>
+  <circle cx="59.6997" cy="229.14" r="2" fill="white"/>
+  <circle cx="267.217" cy="628.944" r="2" fill="white"/>
+  <circle cx="147.657" cy="307.197" r="2" fill="white"/>
+  <circle cx="1050.83" cy="848.646" r="2" fill="white"/>
+  <circle cx="1004.38" cy="889.007" r="2" fill="white"/>
+  <circle cx="986.483" cy="925.941" r="2" fill="white"/>
+  <circle cx="1790.28" cy="587.441" r="2" fill="white"/>
+  <circle cx="1970" cy="612.952" r="2" fill="white"/>
+  <circle cx="1077.11" cy="626.659" r="2" fill="white"/>
+  <circle cx="975.821" cy="479.684" r="2" fill="white"/>
+  <circle cx="790.769" cy="1160.87" r="2" fill="white"/>
+  <circle cx="791.531" cy="897.384" r="2" fill="white"/>
+  <circle cx="1007.42" cy="667.782" r="2" fill="white"/>
+  <circle cx="560.026" cy="427.9" r="2" fill="white"/>
+  <circle cx="1326.89" cy="1114.42" r="2" fill="white"/>
+  <circle cx="983.056" cy="162.506" r="2" fill="white"/>
+  <circle cx="1028.75" cy="564.214" r="2" fill="white"/>
+  <circle cx="1109.09" cy="663.594" r="2" fill="white"/>
+  <circle cx="654.075" cy="646.84" r="2" fill="white"/>
+  <circle cx="932.414" cy="647.982" r="2" fill="white"/>
+  <circle cx="1538.59" cy="446.938" r="2" fill="white"/>
+  <circle cx="1723.64" cy="423.711" r="2" fill="white"/>
+  <circle cx="1676.05" cy="589.725" r="2" fill="white"/>
+  <circle cx="867.684" cy="270.263" r="2" fill="white"/>
+  <circle cx="1448.35" cy="809.808" r="2" fill="white"/>
+  <circle cx="459.503" cy="646.84" r="2" fill="white"/>
+  <circle cx="342.228" cy="172.026" r="2" fill="white"/>
+  <circle cx="1279.29" cy="604.575" r="2" fill="white"/>
+  <circle cx="1047.79" cy="568.402" r="2" fill="white"/>
+  <circle cx="657.501" cy="489.203" r="2" fill="white"/>
+  <circle cx="1034.08" cy="640.367" r="2" fill="white"/>
+  <circle cx="981.914" cy="1117.47" r="2" fill="white"/>
+  <circle cx="1403.04" cy="417.238" r="2" fill="white"/>
+  <circle cx="1215.7" cy="662.832" r="2" fill="white"/>
+  <circle cx="607.621" cy="871.111" r="2" fill="white"/>
+  <circle cx="1085.86" cy="475.496" r="2" fill="white"/>
+  <circle cx="823.515" cy="867.684" r="2" fill="white"/>
+  <circle cx="994.86" cy="536.799" r="2" fill="white"/>
+  <circle cx="30" cy="188.779" r="2" fill="white"/>
+  <circle cx="604.575" cy="799.146" r="2" fill="white"/>
+  <circle cx="493.392" cy="194.11" r="2" fill="white"/>
+  <circle cx="1102.62" cy="427.9" r="2" fill="white"/>
+  <circle cx="1277.01" cy="607.621" r="2" fill="white"/>
+  <circle cx="363.17" cy="1039.03" r="2" fill="white"/>
+  <circle cx="1701.18" cy="719.947" r="2" fill="white"/>
+  <circle cx="921.753" cy="430.946" r="2" fill="white"/>
+  <circle cx="295.774" cy="1081.67" r="2" fill="white"/>
+  <circle cx="1166.2" cy="192.968" r="2" fill="white"/>
+  <circle cx="958.687" cy="965.16" r="2" fill="white"/>
+  <circle cx="1425.12" cy="467.119" r="2" fill="white"/>
+  <circle cx="1059.21" cy="677.301" r="2" fill="white"/>
+  <circle cx="472.449" cy="671.209" r="2" fill="white"/>
+  <circle cx="898.526" cy="598.102" r="2" fill="white"/>
+  <circle cx="642.652" cy="384.493" r="2" fill="white"/>
+  <circle cx="1270.91" cy="445.796" r="2" fill="white"/>
+  <circle cx="338.039" cy="333.851" r="2" fill="white"/>
+  <circle cx="827.704" cy="695.578" r="2" fill="white"/>
+  <circle cx="1114.42" cy="530.326" r="2" fill="white"/>
+  <circle cx="215.433" cy="388.681" r="2" fill="white"/>
+  <circle cx="768.304" cy="636.179" r="2" fill="white"/>
+  <circle cx="1086.62" cy="505.195" r="2" fill="white"/>
+  <circle cx="354.793" cy="210.864" r="2" fill="white"/>
+  <circle cx="1163.92" cy="630.848" r="2" fill="white"/>
+  <circle cx="989.529" cy="537.941" r="2" fill="white"/>
+  <circle cx="1037.12" cy="564.214" r="2" fill="white"/>
+  <circle cx="1466.63" cy="750.408" r="2" fill="white"/>
+  <circle cx="1209.61" cy="803.335" r="2" fill="white"/>
+  <circle cx="875.299" cy="336.897" r="2" fill="white"/>
+  <circle cx="1069.87" cy="627.802" r="2" fill="white"/>
+  <circle cx="479.684" cy="990.671" r="2" fill="white"/>
+  <circle cx="1041.31" cy="521.949" r="2" fill="white"/>
+  <circle cx="1051.97" cy="751.551" r="2" fill="white"/>
+  <circle cx="1107.95" cy="532.61" r="2" fill="white"/>
+  <circle cx="343.37" cy="301.867" r="2" fill="white"/>
+  <circle cx="615.998" cy="1091.95" r="2" fill="white"/>
+  <circle cx="818.184" cy="536.799" r="2" fill="white"/>
+  <circle cx="966.302" cy="1184.1" r="2" fill="white"/>
+  <circle cx="701.67" cy="1387.05" r="2" fill="white"/>
+  <circle cx="792.673" cy="1362.68" r="2" fill="white"/>
+  <circle cx="876.442" cy="1283.48" r="2" fill="white"/>
+  <circle cx="711.189" cy="812.854" r="2" fill="white"/>
+  <circle cx="641.509" cy="608.763" r="2" fill="white"/>
+  <circle cx="520.807" cy="633.132" r="2" fill="white"/>
+  <circle cx="919.849" cy="316.716" r="2" fill="white"/>
+  <circle cx="883.676" cy="682.632" r="2" fill="white"/>
+  <circle cx="1229.41" cy="1083.58" r="2" fill="white"/>
+  <circle cx="1035.98" cy="514.714" r="2" fill="white"/>
+  <circle cx="1516.13" cy="388.681" r="2" fill="white"/>
+  <circle cx="990.671" cy="1010.47" r="2" fill="white"/>
+  <circle cx="1002.09" cy="539.083" r="2" fill="white"/>
+  <circle cx="1113.28" cy="533.753" r="2" fill="white"/>
+  <circle cx="1182.96" cy="569.545" r="2" fill="white"/>
+  <circle cx="996.763" cy="709.286" r="2" fill="white"/>
+  <circle cx="1511.94" cy="1084.72" r="2" fill="white"/>
+  <circle cx="1536.31" cy="565.356" r="2" fill="white"/>
+  <circle cx="448.08" cy="370.785" r="2" fill="white"/>
+  <circle cx="1721.36" cy="367.739" r="2" fill="white"/>
+  <circle cx="1359.63" cy="473.211" r="2" fill="white"/>
+  <circle cx="520.807" cy="922.895" r="2" fill="white"/>
+  <circle cx="999.048" cy="1079.39" r="2" fill="white"/>
+  <circle cx="711.189" cy="1140.69" r="2" fill="white"/>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1419.03" y="584.395" dx="7" dy="-3" font-size="10" font-family="Verdana">Авиамоторная</text>
+  <text fill="black" x="1419.03" y="584.395" dx="7" dy="-3" font-size="10" font-family="Verdana">Авиамоторная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1184.1" y="755.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Автозаводская</text>
+  <text fill="black" x="1184.1" y="755.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Автозаводская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="863.496" y="830.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Академическая</text>
+  <text fill="black" x="863.496" y="830.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Академическая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="997.906" y="584.395" dx="7" dy="-3" font-size="10" font-family="Verdana">Александровский сад</text>
+  <text fill="black" x="997.906" y="584.395" dx="7" dy="-3" font-size="10" font-family="Verdana">Александровский сад</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1113.28" y="369.643" dx="7" dy="-3" font-size="10" font-family="Verdana">Алексеевская</text>
+  <text fill="black" x="1113.28" y="369.643" dx="7" dy="-3" font-size="10" font-family="Verdana">Алексеевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1597.61" y="1041.31" dx="7" dy="-3" font-size="10" font-family="Verdana">Алма-Атинская</text>
+  <text fill="black" x="1597.61" y="1041.31" dx="7" dy="-3" font-size="10" font-family="Verdana">Алма-Атинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="915.28" y="30" dx="7" dy="-3" font-size="10" font-family="Verdana">Алтуфьево</text>
+  <text fill="black" x="915.28" y="30" dx="7" dy="-3" font-size="10" font-family="Verdana">Алтуфьево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="952.595" y="1230.55" dx="7" dy="-3" font-size="10" font-family="Verdana">Аннино</text>
+  <text fill="black" x="952.595" y="1230.55" dx="7" dy="-3" font-size="10" font-family="Verdana">Аннино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="968.206" y="587.441" dx="7" dy="-3" font-size="10" font-family="Verdana">Арбатская</text>
+  <text fill="black" x="968.206" y="587.441" dx="7" dy="-3" font-size="10" font-family="Verdana">Арбатская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="709.286" y="402.389" dx="7" dy="-3" font-size="10" font-family="Verdana">Аэропорт</text>
+  <text fill="black" x="709.286" y="402.389" dx="7" dy="-3" font-size="10" font-family="Verdana">Аэропорт</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1210.37" y="139.28" dx="7" dy="-3" font-size="10" font-family="Verdana">Бабушкинская</text>
+  <text fill="black" x="1210.37" y="139.28" dx="7" dy="-3" font-size="10" font-family="Verdana">Бабушкинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="576.018" y="617.14" dx="7" dy="-3" font-size="10" font-family="Verdana">Багратионовская</text>
+  <text fill="black" x="576.018" y="617.14" dx="7" dy="-3" font-size="10" font-family="Verdana">Багратионовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="886.722" y="551.649" dx="7" dy="-3" font-size="10" font-family="Verdana">Баррикадная</text>
+  <text fill="black" x="886.722" y="551.649" dx="7" dy="-3" font-size="10" font-family="Verdana">Баррикадная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1272.06" y="505.957" dx="7" dy="-3" font-size="10" font-family="Verdana">Бауманская</text>
+  <text fill="black" x="1272.06" y="505.957" dx="7" dy="-3" font-size="10" font-family="Verdana">Бауманская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="762.212" y="502.911" dx="7" dy="-3" font-size="10" font-family="Verdana">Беговая</text>
+  <text fill="black" x="762.212" y="502.911" dx="7" dy="-3" font-size="10" font-family="Verdana">Беговая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="905.761" y="493.392" dx="7" dy="-3" font-size="10" font-family="Verdana">Белорусская</text>
+  <text fill="black" x="905.761" y="493.392" dx="7" dy="-3" font-size="10" font-family="Verdana">Белорусская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="682.632" y="1002.09" dx="7" dy="-3" font-size="10" font-family="Verdana">Беляево</text>
+  <text fill="black" x="682.632" y="1002.09" dx="7" dy="-3" font-size="10" font-family="Verdana">Беляево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="977.725" y="84.0687" dx="7" dy="-3" font-size="10" font-family="Verdana">Бибирево</text>
+  <text fill="black" x="977.725" y="84.0687" dx="7" dy="-3" font-size="10" font-family="Verdana">Бибирево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1003.24" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Библиотека имени Ленина</text>
+  <text fill="black" x="1003.24" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Библиотека имени Ленина</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="798.004" y="1163.92" dx="7" dy="-3" font-size="10" font-family="Verdana">Битцевский парк</text>
+  <text fill="black" x="798.004" y="1163.92" dx="7" dy="-3" font-size="10" font-family="Verdana">Битцевский парк</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1511.94" y="1038.27" dx="7" dy="-3" font-size="10" font-family="Verdana">Борисово</text>
+  <text fill="black" x="1511.94" y="1038.27" dx="7" dy="-3" font-size="10" font-family="Verdana">Борисово</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="992.575" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Боровицкая</text>
+  <text fill="black" x="992.575" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Боровицкая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1110.99" y="232.186" dx="7" dy="-3" font-size="10" font-family="Verdana">Ботанический сад</text>
+  <text fill="black" x="1110.99" y="232.186" dx="7" dy="-3" font-size="10" font-family="Verdana">Ботанический сад</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1538.59" y="937.745" dx="7" dy="-3" font-size="10" font-family="Verdana">Братиславская</text>
+  <text fill="black" x="1538.59" y="937.745" dx="7" dy="-3" font-size="10" font-family="Verdana">Братиславская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="748.504" y="1372.2" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Адмирала Ушакова</text>
+  <text fill="black" x="748.504" y="1372.2" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Адмирала Ушакова</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="877.203" y="1282.34" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Дмитрия Донского</text>
+  <text fill="black" x="877.203" y="1282.34" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Дмитрия Донского</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1476.15" y="347.558" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Рокоссовского</text>
+  <text fill="black" x="1476.15" y="347.558" dx="7" dy="-3" font-size="10" font-family="Verdana">Бульвар Рокоссовского</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="644.555" y="1400.76" dx="7" dy="-3" font-size="10" font-family="Verdana">Бунинская аллея</text>
+  <text fill="black" x="644.555" y="1400.76" dx="7" dy="-3" font-size="10" font-family="Verdana">Бунинская аллея</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="975.821" y="352.889" dx="7" dy="-3" font-size="10" font-family="Verdana">Бутырская</text>
+  <text fill="black" x="975.821" y="352.889" dx="7" dy="-3" font-size="10" font-family="Verdana">Бутырская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1121.65" y="323.189" dx="7" dy="-3" font-size="10" font-family="Verdana">ВДНХ</text>
+  <text fill="black" x="1121.65" y="323.189" dx="7" dy="-3" font-size="10" font-family="Verdana">ВДНХ</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1039.03" y="962.114" dx="7" dy="-3" font-size="10" font-family="Verdana">Варшавская</text>
+  <text fill="black" x="1039.03" y="962.114" dx="7" dy="-3" font-size="10" font-family="Verdana">Варшавская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="927.083" y="223.81" dx="7" dy="-3" font-size="10" font-family="Verdana">Владыкино</text>
+  <text fill="black" x="927.083" y="223.81" dx="7" dy="-3" font-size="10" font-family="Verdana">Владыкино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="533.753" y="252.367" dx="7" dy="-3" font-size="10" font-family="Verdana">Водный стадион</text>
+  <text fill="black" x="533.753" y="252.367" dx="7" dy="-3" font-size="10" font-family="Verdana">Водный стадион</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="577.16" y="331.566" dx="7" dy="-3" font-size="10" font-family="Verdana">Войковская</text>
+  <text fill="black" x="577.16" y="331.566" dx="7" dy="-3" font-size="10" font-family="Verdana">Войковская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1296.05" y="687.963" dx="7" dy="-3" font-size="10" font-family="Verdana">Волгоградский проспект</text>
+  <text fill="black" x="1296.05" y="687.963" dx="7" dy="-3" font-size="10" font-family="Verdana">Волгоградский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1548.11" y="819.327" dx="7" dy="-3" font-size="10" font-family="Verdana">Волжская</text>
+  <text fill="black" x="1548.11" y="819.327" dx="7" dy="-3" font-size="10" font-family="Verdana">Волжская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="135.853" y="269.121" dx="7" dy="-3" font-size="10" font-family="Verdana">Волоколамская</text>
+  <text fill="black" x="135.853" y="269.121" dx="7" dy="-3" font-size="10" font-family="Verdana">Волоколамская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="809.808" y="745.078" dx="7" dy="-3" font-size="10" font-family="Verdana">Воробьёвы горы</text>
+  <text fill="black" x="809.808" y="745.078" dx="7" dy="-3" font-size="10" font-family="Verdana">Воробьёвы горы</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="739.747" y="592.771" dx="7" dy="-3" font-size="10" font-family="Verdana">Выставочная(а)</text>
+  <text fill="black" x="739.747" y="592.771" dx="7" dy="-3" font-size="10" font-family="Verdana">Выставочная(а)</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1795.61" y="724.897" dx="7" dy="-3" font-size="10" font-family="Verdana">Выхино</text>
+  <text fill="black" x="1795.61" y="724.897" dx="7" dy="-3" font-size="10" font-family="Verdana">Выхино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="734.416" y="596.96" dx="7" dy="-3" font-size="10" font-family="Verdana">Деловой центр</text>
+  <text fill="black" x="734.416" y="596.96" dx="7" dy="-3" font-size="10" font-family="Verdana">Деловой центр</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="805.619" y="442.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Динамо</text>
+  <text fill="black" x="805.619" y="442.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Динамо</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="895.48" y="377.258" dx="7" dy="-3" font-size="10" font-family="Verdana">Дмитровская</text>
+  <text fill="black" x="895.48" y="377.258" dx="7" dy="-3" font-size="10" font-family="Verdana">Дмитровская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1057.31" y="673.113" dx="7" dy="-3" font-size="10" font-family="Verdana">Добрынинская</text>
+  <text fill="black" x="1057.31" y="673.113" dx="7" dy="-3" font-size="10" font-family="Verdana">Добрынинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1416.75" y="1123.94" dx="7" dy="-3" font-size="10" font-family="Verdana">Домодедовская</text>
+  <text fill="black" x="1416.75" y="1123.94" dx="7" dy="-3" font-size="10" font-family="Verdana">Домодедовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1022.27" y="473.211" dx="7" dy="-3" font-size="10" font-family="Verdana">Достоевская</text>
+  <text fill="black" x="1022.27" y="473.211" dx="7" dy="-3" font-size="10" font-family="Verdana">Достоевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1254.92" y="713.474" dx="7" dy="-3" font-size="10" font-family="Verdana">Дубровка</text>
+  <text fill="black" x="1254.92" y="713.474" dx="7" dy="-3" font-size="10" font-family="Verdana">Дубровка</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1941.44" y="839.127" dx="7" dy="-3" font-size="10" font-family="Verdana">Жулебино</text>
+  <text fill="black" x="1941.44" y="839.127" dx="7" dy="-3" font-size="10" font-family="Verdana">Жулебино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1518.41" y="1117.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Зябликово</text>
+  <text fill="black" x="1518.41" y="1117.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Зябликово</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1655.87" y="449.984" dx="7" dy="-3" font-size="10" font-family="Verdana">Измайловская</text>
+  <text fill="black" x="1655.87" y="449.984" dx="7" dy="-3" font-size="10" font-family="Verdana">Измайловская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="738.985" y="947.264" dx="7" dy="-3" font-size="10" font-family="Verdana">Калужская</text>
+  <text fill="black" x="738.985" y="947.264" dx="7" dy="-3" font-size="10" font-family="Verdana">Калужская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1179.91" y="1028.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Кантемировская</text>
+  <text fill="black" x="1179.91" y="1028.75" dx="7" dy="-3" font-size="10" font-family="Verdana">Кантемировская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="958.687" y="962.875" dx="7" dy="-3" font-size="10" font-family="Verdana">Каховская</text>
+  <text fill="black" x="958.687" y="962.875" dx="7" dy="-3" font-size="10" font-family="Verdana">Каховская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1150.21" y="955.641" dx="7" dy="-3" font-size="10" font-family="Verdana">Каширская</text>
+  <text fill="black" x="1150.21" y="955.641" dx="7" dy="-3" font-size="10" font-family="Verdana">Каширская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="829.607" y="614.094" dx="7" dy="-3" font-size="10" font-family="Verdana">Киевская</text>
+  <text fill="black" x="829.607" y="614.094" dx="7" dy="-3" font-size="10" font-family="Verdana">Киевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="834.177" y="618.283" dx="7" dy="-3" font-size="10" font-family="Verdana">Киевская(а)</text>
+  <text fill="black" x="834.177" y="618.283" dx="7" dy="-3" font-size="10" font-family="Verdana">Киевская(а)</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1091.95" y="573.733" dx="7" dy="-3" font-size="10" font-family="Verdana">Китай-город</text>
+  <text fill="black" x="1091.95" y="573.733" dx="7" dy="-3" font-size="10" font-family="Verdana">Китай-город</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1288.81" y="755.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Кожуховская</text>
+  <text fill="black" x="1288.81" y="755.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Кожуховская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1208.47" y="865.78" dx="7" dy="-3" font-size="10" font-family="Verdana">Коломенская</text>
+  <text fill="black" x="1208.47" y="865.78" dx="7" dy="-3" font-size="10" font-family="Verdana">Коломенская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1174.58" y="499.865" dx="7" dy="-3" font-size="10" font-family="Verdana">Комсомольская</text>
+  <text fill="black" x="1174.58" y="499.865" dx="7" dy="-3" font-size="10" font-family="Verdana">Комсомольская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="656.359" y="1038.27" dx="7" dy="-3" font-size="10" font-family="Verdana">Коньково</text>
+  <text fill="black" x="656.359" y="1038.27" dx="7" dy="-3" font-size="10" font-family="Verdana">Коньково</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1948.68" y="882.534" dx="7" dy="-3" font-size="10" font-family="Verdana">Котельники</text>
+  <text fill="black" x="1948.68" y="882.534" dx="7" dy="-3" font-size="10" font-family="Verdana">Котельники</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1514.99" y="1113.28" dx="7" dy="-3" font-size="10" font-family="Verdana">Красногвардейская</text>
+  <text fill="black" x="1514.99" y="1113.28" dx="7" dy="-3" font-size="10" font-family="Verdana">Красногвардейская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="879.488" y="550.506" dx="7" dy="-3" font-size="10" font-family="Verdana">Краснопресненская</text>
+  <text fill="black" x="879.488" y="550.506" dx="7" dy="-3" font-size="10" font-family="Verdana">Краснопресненская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1221.03" y="479.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Красносельская</text>
+  <text fill="black" x="1221.03" y="479.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Красносельская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1150.21" y="521.949" dx="7" dy="-3" font-size="10" font-family="Verdana">Красные Ворота</text>
+  <text fill="black" x="1150.21" y="521.949" dx="7" dy="-3" font-size="10" font-family="Verdana">Красные Ворота</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1221.03" y="658.263" dx="7" dy="-3" font-size="10" font-family="Verdana">Крестьянская застава</text>
+  <text fill="black" x="1221.03" y="658.263" dx="7" dy="-3" font-size="10" font-family="Verdana">Крестьянская застава</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="978.868" y="611.81" dx="7" dy="-3" font-size="10" font-family="Verdana">Кропоткинская</text>
+  <text fill="black" x="978.868" y="611.81" dx="7" dy="-3" font-size="10" font-family="Verdana">Кропоткинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="234.471" y="568.402" dx="7" dy="-3" font-size="10" font-family="Verdana">Крылатское</text>
+  <text fill="black" x="234.471" y="568.402" dx="7" dy="-3" font-size="10" font-family="Verdana">Крылатское</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1063.4" y="553.553" dx="7" dy="-3" font-size="10" font-family="Verdana">Кузнецкий Мост</text>
+  <text fill="black" x="1063.4" y="553.553" dx="7" dy="-3" font-size="10" font-family="Verdana">Кузнецкий Мост</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1595.71" y="762.974" dx="7" dy="-3" font-size="10" font-family="Verdana">Кузьминки</text>
+  <text fill="black" x="1595.71" y="762.974" dx="7" dy="-3" font-size="10" font-family="Verdana">Кузьминки</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="378.02" y="667.021" dx="7" dy="-3" font-size="10" font-family="Verdana">Кунцевская</text>
+  <text fill="black" x="378.02" y="667.021" dx="7" dy="-3" font-size="10" font-family="Verdana">Кунцевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1191.33" y="567.641" dx="7" dy="-3" font-size="10" font-family="Verdana">Курская</text>
+  <text fill="black" x="1191.33" y="567.641" dx="7" dy="-3" font-size="10" font-family="Verdana">Курская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="715.378" y="631.99" dx="7" dy="-3" font-size="10" font-family="Verdana">Кутузовская</text>
+  <text fill="black" x="715.378" y="631.99" dx="7" dy="-3" font-size="10" font-family="Verdana">Кутузовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="912.234" y="754.597" dx="7" dy="-3" font-size="10" font-family="Verdana">Ленинский проспект</text>
+  <text fill="black" x="912.234" y="754.597" dx="7" dy="-3" font-size="10" font-family="Verdana">Ленинский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1926.59" y="778.966" dx="7" dy="-3" font-size="10" font-family="Verdana">Лермонтовский проспект</text>
+  <text fill="black" x="1926.59" y="778.966" dx="7" dy="-3" font-size="10" font-family="Verdana">Лермонтовский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="877.203" y="1232.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Лесопарковая</text>
+  <text fill="black" x="877.203" y="1232.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Лесопарковая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="670.067" y="762.974" dx="7" dy="-3" font-size="10" font-family="Verdana">Ломоносовский проспект</text>
+  <text fill="black" x="670.067" y="762.974" dx="7" dy="-3" font-size="10" font-family="Verdana">Ломоносовский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1068.73" y="556.979" dx="7" dy="-3" font-size="10" font-family="Verdana">Лубянка</text>
+  <text fill="black" x="1068.73" y="556.979" dx="7" dy="-3" font-size="10" font-family="Verdana">Лубянка</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1580.86" y="876.442" dx="7" dy="-3" font-size="10" font-family="Verdana">Люблино</text>
+  <text fill="black" x="1580.86" y="876.442" dx="7" dy="-3" font-size="10" font-family="Verdana">Люблино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1171.53" y="627.802" dx="7" dy="-3" font-size="10" font-family="Verdana">Марксистская</text>
+  <text fill="black" x="1171.53" y="627.802" dx="7" dy="-3" font-size="10" font-family="Verdana">Марксистская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1026.46" y="421.427" dx="7" dy="-3" font-size="10" font-family="Verdana">Марьина роща</text>
+  <text fill="black" x="1026.46" y="421.427" dx="7" dy="-3" font-size="10" font-family="Verdana">Марьина роща</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1510.04" y="974.679" dx="7" dy="-3" font-size="10" font-family="Verdana">Марьино</text>
+  <text fill="black" x="1510.04" y="974.679" dx="7" dy="-3" font-size="10" font-family="Verdana">Марьино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="949.168" y="517.761" dx="7" dy="-3" font-size="10" font-family="Verdana">Маяковская</text>
+  <text fill="black" x="949.168" y="517.761" dx="7" dy="-3" font-size="10" font-family="Verdana">Маяковская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1198.95" y="71.5034" dx="7" dy="-3" font-size="10" font-family="Verdana">Медведково</text>
+  <text fill="black" x="1198.95" y="71.5034" dx="7" dy="-3" font-size="10" font-family="Verdana">Медведково</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="713.474" y="600.387" dx="7" dy="-3" font-size="10" font-family="Verdana">Международная(а)</text>
+  <text fill="black" x="713.474" y="600.387" dx="7" dy="-3" font-size="10" font-family="Verdana">Международная(а)</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="969.348" y="475.496" dx="7" dy="-3" font-size="10" font-family="Verdana">Менделеевская</text>
+  <text fill="black" x="969.348" y="475.496" dx="7" dy="-3" font-size="10" font-family="Verdana">Менделеевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="599.244" y="695.578" dx="7" dy="-3" font-size="10" font-family="Verdana">Минская</text>
+  <text fill="black" x="599.244" y="695.578" dx="7" dy="-3" font-size="10" font-family="Verdana">Минская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="59.6997" y="229.14" dx="7" dy="-3" font-size="10" font-family="Verdana">Митино</text>
+  <text fill="black" x="59.6997" y="229.14" dx="7" dy="-3" font-size="10" font-family="Verdana">Митино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="267.217" y="628.944" dx="7" dy="-3" font-size="10" font-family="Verdana">Молодёжная</text>
+  <text fill="black" x="267.217" y="628.944" dx="7" dy="-3" font-size="10" font-family="Verdana">Молодёжная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="147.657" y="307.197" dx="7" dy="-3" font-size="10" font-family="Verdana">Мякинино</text>
+  <text fill="black" x="147.657" y="307.197" dx="7" dy="-3" font-size="10" font-family="Verdana">Мякинино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1050.83" y="848.646" dx="7" dy="-3" font-size="10" font-family="Verdana">Нагатинская</text>
+  <text fill="black" x="1050.83" y="848.646" dx="7" dy="-3" font-size="10" font-family="Verdana">Нагатинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1004.38" y="889.007" dx="7" dy="-3" font-size="10" font-family="Verdana">Нагорная</text>
+  <text fill="black" x="1004.38" y="889.007" dx="7" dy="-3" font-size="10" font-family="Verdana">Нагорная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="986.483" y="925.941" dx="7" dy="-3" font-size="10" font-family="Verdana">Нахимовский проспект</text>
+  <text fill="black" x="986.483" y="925.941" dx="7" dy="-3" font-size="10" font-family="Verdana">Нахимовский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1790.28" y="587.441" dx="7" dy="-3" font-size="10" font-family="Verdana">Новогиреево</text>
+  <text fill="black" x="1790.28" y="587.441" dx="7" dy="-3" font-size="10" font-family="Verdana">Новогиреево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1970" y="612.952" dx="7" dy="-3" font-size="10" font-family="Verdana">Новокосино</text>
+  <text fill="black" x="1970" y="612.952" dx="7" dy="-3" font-size="10" font-family="Verdana">Новокосино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1077.11" y="626.659" dx="7" dy="-3" font-size="10" font-family="Verdana">Новокузнецкая</text>
+  <text fill="black" x="1077.11" y="626.659" dx="7" dy="-3" font-size="10" font-family="Verdana">Новокузнецкая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="975.821" y="479.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Новослободская</text>
+  <text fill="black" x="975.821" y="479.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Новослободская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="790.769" y="1160.87" dx="7" dy="-3" font-size="10" font-family="Verdana">Новоясеневская</text>
+  <text fill="black" x="790.769" y="1160.87" dx="7" dy="-3" font-size="10" font-family="Verdana">Новоясеневская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="791.531" y="897.384" dx="7" dy="-3" font-size="10" font-family="Verdana">Новые Черёмушки</text>
+  <text fill="black" x="791.531" y="897.384" dx="7" dy="-3" font-size="10" font-family="Verdana">Новые Черёмушки</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1007.42" y="667.782" dx="7" dy="-3" font-size="10" font-family="Verdana">Октябрьская</text>
+  <text fill="black" x="1007.42" y="667.782" dx="7" dy="-3" font-size="10" font-family="Verdana">Октябрьская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="560.026" y="427.9" dx="7" dy="-3" font-size="10" font-family="Verdana">Октябрьское поле</text>
+  <text fill="black" x="560.026" y="427.9" dx="7" dy="-3" font-size="10" font-family="Verdana">Октябрьское поле</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1326.89" y="1114.42" dx="7" dy="-3" font-size="10" font-family="Verdana">Орехово</text>
+  <text fill="black" x="1326.89" y="1114.42" dx="7" dy="-3" font-size="10" font-family="Verdana">Орехово</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="983.056" y="162.506" dx="7" dy="-3" font-size="10" font-family="Verdana">Отрадное</text>
+  <text fill="black" x="983.056" y="162.506" dx="7" dy="-3" font-size="10" font-family="Verdana">Отрадное</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1028.75" y="564.214" dx="7" dy="-3" font-size="10" font-family="Verdana">Охотный Ряд</text>
+  <text fill="black" x="1028.75" y="564.214" dx="7" dy="-3" font-size="10" font-family="Verdana">Охотный Ряд</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1109.09" y="663.594" dx="7" dy="-3" font-size="10" font-family="Verdana">Павелецкая</text>
+  <text fill="black" x="1109.09" y="663.594" dx="7" dy="-3" font-size="10" font-family="Verdana">Павелецкая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="654.075" y="646.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Парк Победы</text>
+  <text fill="black" x="654.075" y="646.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Парк Победы</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="932.414" y="647.982" dx="7" dy="-3" font-size="10" font-family="Verdana">Парк культуры</text>
+  <text fill="black" x="932.414" y="647.982" dx="7" dy="-3" font-size="10" font-family="Verdana">Парк культуры</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1538.59" y="446.938" dx="7" dy="-3" font-size="10" font-family="Verdana">Партизанская</text>
+  <text fill="black" x="1538.59" y="446.938" dx="7" dy="-3" font-size="10" font-family="Verdana">Партизанская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1723.64" y="423.711" dx="7" dy="-3" font-size="10" font-family="Verdana">Первомайская</text>
+  <text fill="black" x="1723.64" y="423.711" dx="7" dy="-3" font-size="10" font-family="Verdana">Первомайская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1676.05" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Перово</text>
+  <text fill="black" x="1676.05" y="589.725" dx="7" dy="-3" font-size="10" font-family="Verdana">Перово</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="867.684" y="270.263" dx="7" dy="-3" font-size="10" font-family="Verdana">Петровско-Разумовская</text>
+  <text fill="black" x="867.684" y="270.263" dx="7" dy="-3" font-size="10" font-family="Verdana">Петровско-Разумовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1448.35" y="809.808" dx="7" dy="-3" font-size="10" font-family="Verdana">Печатники</text>
+  <text fill="black" x="1448.35" y="809.808" dx="7" dy="-3" font-size="10" font-family="Verdana">Печатники</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="459.503" y="646.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Пионерская</text>
+  <text fill="black" x="459.503" y="646.84" dx="7" dy="-3" font-size="10" font-family="Verdana">Пионерская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="342.228" y="172.026" dx="7" dy="-3" font-size="10" font-family="Verdana">Планерная</text>
+  <text fill="black" x="342.228" y="172.026" dx="7" dy="-3" font-size="10" font-family="Verdana">Планерная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1279.29" y="604.575" dx="7" dy="-3" font-size="10" font-family="Verdana">Площадь Ильича</text>
+  <text fill="black" x="1279.29" y="604.575" dx="7" dy="-3" font-size="10" font-family="Verdana">Площадь Ильича</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1047.79" y="568.402" dx="7" dy="-3" font-size="10" font-family="Verdana">Площадь Революции</text>
+  <text fill="black" x="1047.79" y="568.402" dx="7" dy="-3" font-size="10" font-family="Verdana">Площадь Революции</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="657.501" y="489.203" dx="7" dy="-3" font-size="10" font-family="Verdana">Полежаевская</text>
+  <text fill="black" x="657.501" y="489.203" dx="7" dy="-3" font-size="10" font-family="Verdana">Полежаевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1034.08" y="640.367" dx="7" dy="-3" font-size="10" font-family="Verdana">Полянка</text>
+  <text fill="black" x="1034.08" y="640.367" dx="7" dy="-3" font-size="10" font-family="Verdana">Полянка</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="981.914" y="1117.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Пражская</text>
+  <text fill="black" x="981.914" y="1117.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Пражская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1403.04" y="417.238" dx="7" dy="-3" font-size="10" font-family="Verdana">Преображенская площадь</text>
+  <text fill="black" x="1403.04" y="417.238" dx="7" dy="-3" font-size="10" font-family="Verdana">Преображенская площадь</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1215.7" y="662.832" dx="7" dy="-3" font-size="10" font-family="Verdana">Пролетарская</text>
+  <text fill="black" x="1215.7" y="662.832" dx="7" dy="-3" font-size="10" font-family="Verdana">Пролетарская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="607.621" y="871.111" dx="7" dy="-3" font-size="10" font-family="Verdana">Проспект Вернадского</text>
+  <text fill="black" x="607.621" y="871.111" dx="7" dy="-3" font-size="10" font-family="Verdana">Проспект Вернадского</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1085.86" y="475.496" dx="7" dy="-3" font-size="10" font-family="Verdana">Проспект Мира</text>
+  <text fill="black" x="1085.86" y="475.496" dx="7" dy="-3" font-size="10" font-family="Verdana">Проспект Мира</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="823.515" y="867.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Профсоюзная</text>
+  <text fill="black" x="823.515" y="867.684" dx="7" dy="-3" font-size="10" font-family="Verdana">Профсоюзная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="994.86" y="536.799" dx="7" dy="-3" font-size="10" font-family="Verdana">Пушкинская</text>
+  <text fill="black" x="994.86" y="536.799" dx="7" dy="-3" font-size="10" font-family="Verdana">Пушкинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="30" y="188.779" dx="7" dy="-3" font-size="10" font-family="Verdana">Пятницкое шоссе</text>
+  <text fill="black" x="30" y="188.779" dx="7" dy="-3" font-size="10" font-family="Verdana">Пятницкое шоссе</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="604.575" y="799.146" dx="7" dy="-3" font-size="10" font-family="Verdana">Раменки</text>
+  <text fill="black" x="604.575" y="799.146" dx="7" dy="-3" font-size="10" font-family="Verdana">Раменки</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="493.392" y="194.11" dx="7" dy="-3" font-size="10" font-family="Verdana">Речной вокзал</text>
+  <text fill="black" x="493.392" y="194.11" dx="7" dy="-3" font-size="10" font-family="Verdana">Речной вокзал</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1102.62" y="427.9" dx="7" dy="-3" font-size="10" font-family="Verdana">Рижская</text>
+  <text fill="black" x="1102.62" y="427.9" dx="7" dy="-3" font-size="10" font-family="Verdana">Рижская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1277.01" y="607.621" dx="7" dy="-3" font-size="10" font-family="Verdana">Римская</text>
+  <text fill="black" x="1277.01" y="607.621" dx="7" dy="-3" font-size="10" font-family="Verdana">Римская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="363.17" y="1039.03" dx="7" dy="-3" font-size="10" font-family="Verdana">Румянцево</text>
+  <text fill="black" x="363.17" y="1039.03" dx="7" dy="-3" font-size="10" font-family="Verdana">Румянцево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1701.18" y="719.947" dx="7" dy="-3" font-size="10" font-family="Verdana">Рязанский проспект</text>
+  <text fill="black" x="1701.18" y="719.947" dx="7" dy="-3" font-size="10" font-family="Verdana">Рязанский проспект</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="921.753" y="430.946" dx="7" dy="-3" font-size="10" font-family="Verdana">Савёловская</text>
+  <text fill="black" x="921.753" y="430.946" dx="7" dy="-3" font-size="10" font-family="Verdana">Савёловская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="295.774" y="1081.67" dx="7" dy="-3" font-size="10" font-family="Verdana">Саларьево</text>
+  <text fill="black" x="295.774" y="1081.67" dx="7" dy="-3" font-size="10" font-family="Verdana">Саларьево</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1166.2" y="192.968" dx="7" dy="-3" font-size="10" font-family="Verdana">Свиблово</text>
+  <text fill="black" x="1166.2" y="192.968" dx="7" dy="-3" font-size="10" font-family="Verdana">Свиблово</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="958.687" y="965.16" dx="7" dy="-3" font-size="10" font-family="Verdana">Севастопольская</text>
+  <text fill="black" x="958.687" y="965.16" dx="7" dy="-3" font-size="10" font-family="Verdana">Севастопольская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1425.12" y="467.119" dx="7" dy="-3" font-size="10" font-family="Verdana">Семёновская</text>
+  <text fill="black" x="1425.12" y="467.119" dx="7" dy="-3" font-size="10" font-family="Verdana">Семёновская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1059.21" y="677.301" dx="7" dy="-3" font-size="10" font-family="Verdana">Серпуховская</text>
+  <text fill="black" x="1059.21" y="677.301" dx="7" dy="-3" font-size="10" font-family="Verdana">Серпуховская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="472.449" y="671.209" dx="7" dy="-3" font-size="10" font-family="Verdana">Славянский бульвар</text>
+  <text fill="black" x="472.449" y="671.209" dx="7" dy="-3" font-size="10" font-family="Verdana">Славянский бульвар</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="898.526" y="598.102" dx="7" dy="-3" font-size="10" font-family="Verdana">Смоленская</text>
+  <text fill="black" x="898.526" y="598.102" dx="7" dy="-3" font-size="10" font-family="Verdana">Смоленская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="642.652" y="384.493" dx="7" dy="-3" font-size="10" font-family="Verdana">Сокол</text>
+  <text fill="black" x="642.652" y="384.493" dx="7" dy="-3" font-size="10" font-family="Verdana">Сокол</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1270.91" y="445.796" dx="7" dy="-3" font-size="10" font-family="Verdana">Сокольники</text>
+  <text fill="black" x="1270.91" y="445.796" dx="7" dy="-3" font-size="10" font-family="Verdana">Сокольники</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="338.039" y="333.851" dx="7" dy="-3" font-size="10" font-family="Verdana">Спартак</text>
+  <text fill="black" x="338.039" y="333.851" dx="7" dy="-3" font-size="10" font-family="Verdana">Спартак</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="827.704" y="695.578" dx="7" dy="-3" font-size="10" font-family="Verdana">Спортивная</text>
+  <text fill="black" x="827.704" y="695.578" dx="7" dy="-3" font-size="10" font-family="Verdana">Спортивная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1114.42" y="530.326" dx="7" dy="-3" font-size="10" font-family="Verdana">Сретенский бульвар</text>
+  <text fill="black" x="1114.42" y="530.326" dx="7" dy="-3" font-size="10" font-family="Verdana">Сретенский бульвар</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="215.433" y="388.681" dx="7" dy="-3" font-size="10" font-family="Verdana">Строгино</text>
+  <text fill="black" x="215.433" y="388.681" dx="7" dy="-3" font-size="10" font-family="Verdana">Строгино</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="768.304" y="636.179" dx="7" dy="-3" font-size="10" font-family="Verdana">Студенческая</text>
+  <text fill="black" x="768.304" y="636.179" dx="7" dy="-3" font-size="10" font-family="Verdana">Студенческая</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1086.62" y="505.195" dx="7" dy="-3" font-size="10" font-family="Verdana">Сухаревская</text>
+  <text fill="black" x="1086.62" y="505.195" dx="7" dy="-3" font-size="10" font-family="Verdana">Сухаревская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="354.793" y="210.864" dx="7" dy="-3" font-size="10" font-family="Verdana">Сходненская</text>
+  <text fill="black" x="354.793" y="210.864" dx="7" dy="-3" font-size="10" font-family="Verdana">Сходненская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1163.92" y="630.848" dx="7" dy="-3" font-size="10" font-family="Verdana">Таганская</text>
+  <text fill="black" x="1163.92" y="630.848" dx="7" dy="-3" font-size="10" font-family="Verdana">Таганская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="989.529" y="537.941" dx="7" dy="-3" font-size="10" font-family="Verdana">Тверская</text>
+  <text fill="black" x="989.529" y="537.941" dx="7" dy="-3" font-size="10" font-family="Verdana">Тверская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1037.12" y="564.214" dx="7" dy="-3" font-size="10" font-family="Verdana">Театральная</text>
+  <text fill="black" x="1037.12" y="564.214" dx="7" dy="-3" font-size="10" font-family="Verdana">Театральная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1466.63" y="750.408" dx="7" dy="-3" font-size="10" font-family="Verdana">Текстильщики</text>
+  <text fill="black" x="1466.63" y="750.408" dx="7" dy="-3" font-size="10" font-family="Verdana">Текстильщики</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1209.61" y="803.335" dx="7" dy="-3" font-size="10" font-family="Verdana">Технопарк</text>
+  <text fill="black" x="1209.61" y="803.335" dx="7" dy="-3" font-size="10" font-family="Verdana">Технопарк</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="875.299" y="336.897" dx="7" dy="-3" font-size="10" font-family="Verdana">Тимирязевская</text>
+  <text fill="black" x="875.299" y="336.897" dx="7" dy="-3" font-size="10" font-family="Verdana">Тимирязевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1069.87" y="627.802" dx="7" dy="-3" font-size="10" font-family="Verdana">Третьяковская</text>
+  <text fill="black" x="1069.87" y="627.802" dx="7" dy="-3" font-size="10" font-family="Verdana">Третьяковская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="479.684" y="990.671" dx="7" dy="-3" font-size="10" font-family="Verdana">Тропарёво</text>
+  <text fill="black" x="479.684" y="990.671" dx="7" dy="-3" font-size="10" font-family="Verdana">Тропарёво</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1041.31" y="521.949" dx="7" dy="-3" font-size="10" font-family="Verdana">Трубная</text>
+  <text fill="black" x="1041.31" y="521.949" dx="7" dy="-3" font-size="10" font-family="Verdana">Трубная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1051.97" y="751.551" dx="7" dy="-3" font-size="10" font-family="Verdana">Тульская</text>
+  <text fill="black" x="1051.97" y="751.551" dx="7" dy="-3" font-size="10" font-family="Verdana">Тульская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1107.95" y="532.61" dx="7" dy="-3" font-size="10" font-family="Verdana">Тургеневская</text>
+  <text fill="black" x="1107.95" y="532.61" dx="7" dy="-3" font-size="10" font-family="Verdana">Тургеневская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="343.37" y="301.867" dx="7" dy="-3" font-size="10" font-family="Verdana">Тушинская</text>
+  <text fill="black" x="343.37" y="301.867" dx="7" dy="-3" font-size="10" font-family="Verdana">Тушинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="615.998" y="1091.95" dx="7" dy="-3" font-size="10" font-family="Verdana">Тёплый Стан</text>
+  <text fill="black" x="615.998" y="1091.95" dx="7" dy="-3" font-size="10" font-family="Verdana">Тёплый Стан</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="818.184" y="536.799" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица 1905 года</text>
+  <text fill="black" x="818.184" y="536.799" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица 1905 года</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="966.302" y="1184.1" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Академика Янгеля</text>
+  <text fill="black" x="966.302" y="1184.1" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Академика Янгеля</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="701.67" y="1387.05" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Горчакова</text>
+  <text fill="black" x="701.67" y="1387.05" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Горчакова</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="792.673" y="1362.68" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Скобелевская</text>
+  <text fill="black" x="792.673" y="1362.68" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Скобелевская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="876.442" y="1283.48" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Старокачаловская</text>
+  <text fill="black" x="876.442" y="1283.48" dx="7" dy="-3" font-size="10" font-family="Verdana">Улица Старокачаловская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="711.189" y="812.854" dx="7" dy="-3" font-size="10" font-family="Verdana">Университет</text>
+  <text fill="black" x="711.189" y="812.854" dx="7" dy="-3" font-size="10" font-family="Verdana">Университет</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="641.509" y="608.763" dx="7" dy="-3" font-size="10" font-family="Verdana">Фили</text>
+  <text fill="black" x="641.509" y="608.763" dx="7" dy="-3" font-size="10" font-family="Verdana">Фили</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="520.807" y="633.132" dx="7" dy="-3" font-size="10" font-family="Verdana">Филёвский парк</text>
+  <text fill="black" x="520.807" y="633.132" dx="7" dy="-3" font-size="10" font-family="Verdana">Филёвский парк</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="919.849" y="316.716" dx="7" dy="-3" font-size="10" font-family="Verdana">Фонвизинская</text>
+  <text fill="black" x="919.849" y="316.716" dx="7" dy="-3" font-size="10" font-family="Verdana">Фонвизинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="883.676" y="682.632" dx="7" dy="-3" font-size="10" font-family="Verdana">Фрунзенская</text>
+  <text fill="black" x="883.676" y="682.632" dx="7" dy="-3" font-size="10" font-family="Verdana">Фрунзенская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1229.41" y="1083.58" dx="7" dy="-3" font-size="10" font-family="Verdana">Царицыно</text>
+  <text fill="black" x="1229.41" y="1083.58" dx="7" dy="-3" font-size="10" font-family="Verdana">Царицыно</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1035.98" y="514.714" dx="7" dy="-3" font-size="10" font-family="Verdana">Цветной бульвар</text>
+  <text fill="black" x="1035.98" y="514.714" dx="7" dy="-3" font-size="10" font-family="Verdana">Цветной бульвар</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1516.13" y="388.681" dx="7" dy="-3" font-size="10" font-family="Verdana">Черкизовская</text>
+  <text fill="black" x="1516.13" y="388.681" dx="7" dy="-3" font-size="10" font-family="Verdana">Черкизовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="990.671" y="1010.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Чертановская</text>
+  <text fill="black" x="990.671" y="1010.47" dx="7" dy="-3" font-size="10" font-family="Verdana">Чертановская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1002.09" y="539.083" dx="7" dy="-3" font-size="10" font-family="Verdana">Чеховская</text>
+  <text fill="black" x="1002.09" y="539.083" dx="7" dy="-3" font-size="10" font-family="Verdana">Чеховская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1113.28" y="533.753" dx="7" dy="-3" font-size="10" font-family="Verdana">Чистые пруды</text>
+  <text fill="black" x="1113.28" y="533.753" dx="7" dy="-3" font-size="10" font-family="Verdana">Чистые пруды</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1182.96" y="569.545" dx="7" dy="-3" font-size="10" font-family="Verdana">Чкаловская</text>
+  <text fill="black" x="1182.96" y="569.545" dx="7" dy="-3" font-size="10" font-family="Verdana">Чкаловская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="996.763" y="709.286" dx="7" dy="-3" font-size="10" font-family="Verdana">Шаболовская</text>
+  <text fill="black" x="996.763" y="709.286" dx="7" dy="-3" font-size="10" font-family="Verdana">Шаболовская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1511.94" y="1084.72" dx="7" dy="-3" font-size="10" font-family="Verdana">Шипиловская</text>
+  <text fill="black" x="1511.94" y="1084.72" dx="7" dy="-3" font-size="10" font-family="Verdana">Шипиловская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1536.31" y="565.356" dx="7" dy="-3" font-size="10" font-family="Verdana">Шоссе Энтузиастов</text>
+  <text fill="black" x="1536.31" y="565.356" dx="7" dy="-3" font-size="10" font-family="Verdana">Шоссе Энтузиастов</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="448.08" y="370.785" dx="7" dy="-3" font-size="10" font-family="Verdana">Щукинская</text>
+  <text fill="black" x="448.08" y="370.785" dx="7" dy="-3" font-size="10" font-family="Verdana">Щукинская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1721.36" y="367.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Щёлковская</text>
+  <text fill="black" x="1721.36" y="367.739" dx="7" dy="-3" font-size="10" font-family="Verdana">Щёлковская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="1359.63" y="473.211" dx="7" dy="-3" font-size="10" font-family="Verdana">Электрозаводская</text>
+  <text fill="black" x="1359.63" y="473.211" dx="7" dy="-3" font-size="10" font-family="Verdana">Электрозаводская</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="520.807" y="922.895" dx="7" dy="-3" font-size="10" font-family="Verdana">Юго-Западная</text>
+  <text fill="black" x="520.807" y="922.895" dx="7" dy="-3" font-size="10" font-family="Verdana">Юго-Западная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="999.048" y="1079.39" dx="7" dy="-3" font-size="10" font-family="Verdana">Южная</text>
+  <text fill="black" x="999.048" y="1079.39" dx="7" dy="-3" font-size="10" font-family="Verdana">Южная</text>
+  <text fill="rgba(255,255,255,0.85)" stroke="rgba(255,255,255,0.85)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" x="711.189" y="1140.69" dx="7" dy="-3" font-size="10" font-family="Verdana">Ясенево</text>
+  <text fill="black" x="711.189" y="1140.69" dx="7" dy="-3" font-size="10" font-family="Verdana">Ясенево</text>
+</svg>
